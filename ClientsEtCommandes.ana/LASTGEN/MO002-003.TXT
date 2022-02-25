@@ -1,0 +1,2 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Contrainte_Client_Commande		NWL	Client (IDClient) et Commande (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Commande (IDClient)

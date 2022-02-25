@@ -1,0 +1,8 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Client	IDClient	RDP+		
+Commande		NFI		nouveau fichier
+Client	IDClient	RRM		
+Commande	NuméroInterneCommande	RRN		
+Commande	TotalHT	RRN		
+Commande	TotalTVA	RRN		
+Commande	TotalTTC	RRN		
